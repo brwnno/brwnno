@@ -1,4 +1,4 @@
-## 💜 Ola, eu sou Bruno de Miranda!
+## 💻 Ola, eu sou Bruno de Miranda!
 
 
 - 👨‍💻 Sou Desenvolvedor Full-Stack!
