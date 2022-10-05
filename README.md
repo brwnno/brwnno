@@ -10,7 +10,7 @@
 <br />
 
 
-## Tecnologias Que Uso No Dia a Dia:
+## Tecnologias que uso no dia a dia:
 
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
